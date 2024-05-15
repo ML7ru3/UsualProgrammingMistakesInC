@@ -1,5 +1,0 @@
-1. 
-When users choose “Cancel” on a dialog, it typically results in a JOptionPane.CANCEL_OPTION or similar return value, indicating that the action has been canceled.
-
-2.
-Object[] options = {"(something that agrees)", "(something that don't agree)"};
